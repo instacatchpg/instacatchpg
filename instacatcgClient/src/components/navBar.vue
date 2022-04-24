@@ -22,7 +22,7 @@
       </v-btn>
      
       <v-btn large>
-        <span>הודעות</span>
+        <span>תגובות</span>
   
         <v-icon>mdi-comment</v-icon>
       </v-btn>
